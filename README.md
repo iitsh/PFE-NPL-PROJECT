@@ -344,6 +344,4 @@ Bot:  "Karim Saidi a reçu un traitement pour l'hypertension."
 
 **Made with ❤️ at TCI**
 
-*Democratizing healthcare data access through AI*
-
 </div>

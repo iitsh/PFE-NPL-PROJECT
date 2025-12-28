@@ -245,7 +245,6 @@ PFE-NPL-PROJECT/
 │   ├── generate_sql_query.py       # Natural language → SQL
 │   └── execute.py                  # Execute query & format results
 │
-├── requirements.txt                # Dependencies
 └── README.md
 ```
 
